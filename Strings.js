@@ -1,7 +1,7 @@
 let a = "Strings"
 
 //             S t r i n g s
-// Index:      0 1 3 2 3 4 5 
+// Index:      0 1 2 3 4 5 6 
 
 console.log("Printing element at index 3:" + a[3])
 
